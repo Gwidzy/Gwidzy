@@ -1,4 +1,4 @@
-- Hi, I’m @Gwidzy
+Hey there, I’m @Gwidzy!
 - I am a 21 year old male from South Africa
 - I’m interested in database design and web development
 - I’m a BScIT graduate currently working for Stock2Shop
