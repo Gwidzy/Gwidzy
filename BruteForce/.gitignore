@@ -1,0 +1,8 @@
+#Main
+.idea/
+.DS_STORE*
+.svn*
+
+#VScode
+.vscode
+/_excluded
