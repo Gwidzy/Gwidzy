@@ -1,5 +1,5 @@
 Hey there, I’m **_@Gwidzy_**!
-- I am a 23 year old from South Africa 🇿🇦
+- I am a 24 year old from South Africa 🇿🇦
 - I’m interested in database design and software development 💻
 - I’m a BScIT graduate currently working for [Stock2Shop](https://www.stock2shop.com/) 👨‍🎓
 - I like long walks on the... wait, this isn't Tinder... 🏖️
