@@ -36,9 +36,11 @@ Hey there, I’m **_@Gwidzy_**!
 
 ### :fire: My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gwidzy&theme=dark&background=000000)](https://git.io/streak-stats)
+![Gwidzy's Stats](https://github-readme-stats.vercel.app/api?username=Gwidzy&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwidzy)](https://github.com/anuraghazra/github-readme-stats)
+![Gwidzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gwidzy&theme=radical&hide_border=true)
+
+![Gwidzy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwidzy&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 Gwidzy/Gwidzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
