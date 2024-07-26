@@ -37,9 +37,7 @@ Hey there, I’m **_@Gwidzy_**!
 
 ### :fire: My Stats:
 
-![Gwidzy's Stats](https://github-readme-stats.vercel.app/api?username=Gwidzy&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gwidzy?cardType=level-alternate&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
+![Gwidzy's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gwidzy?cardType=level&theme=midnight-purple&preferLogin=false)
 
 ![Gwidzy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gwidzy&theme=midnight-purple&hide_border=false)
 
