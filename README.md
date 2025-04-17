@@ -1,5 +1,7 @@
+### [![General](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A513F7&width=435&height=28&lines=General%3A)](https://git.io/typing-svg)
+
 Hey there, I’m **_@Gwidzy_**!
-- I am a 24 year old from South Africa 🇿🇦
+- I am a 25-year-old from South Africa 🇿🇦
 - I’m interested in database design and software development 💻
 - Proud cat dad 🐈
 - I’m a BScIT graduate currently working for [Stock2Shop](https://www.stock2shop.com/) 👨‍🎓
@@ -8,8 +10,8 @@ Hey there, I’m **_@Gwidzy_**!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-#### Tools:
+### [![Tech Stack](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A513F7&width=435&height=28&lines=Tech+Stack%3A)](https://git.io/typing-svg)
+#### [![Tools](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=A513F7&width=435&height=28&lines=Tools)](https://git.io/typing-svg)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -23,7 +25,7 @@ Hey there, I’m **_@Gwidzy_**!
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
 </div>
 
-#### Languages:
+#### [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=A513F7&width=435&height=28&lines=Languages)](https://git.io/typing-svg)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,7 +37,7 @@ Hey there, I’m **_@Gwidzy_**!
 
 ---
 
-### :fire: My Stats:
+### [![My stats](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A513F7&width=435&height=28&lines=My+Stats%3A)](https://git.io/typing-svg)
 
 ![Gwidzy's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gwidzy?cardType=level&theme=midnight-purple&preferLogin=false)
 
