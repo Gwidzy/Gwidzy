@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   <img src="" title="Fae" alt="Fae" width="" height=""/>&nbsp;
 </div>
 
-#### [![Fae](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=A513F7&width=435&height=28&lines=Fae)](https://git.io/typing-svg)
+#### [![Floki](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=A513F7&width=435&height=28&lines=Floki)](https://git.io/typing-svg)
 <div>
   <img src="" title="Floki" alt="Floki" width="" height=""/>&nbsp;
 </div>
