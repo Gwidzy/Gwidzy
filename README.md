@@ -50,17 +50,3 @@ Gwidzy/Gwidzy is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
----
-
-
-### [![My children](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A513F7&width=435&height=28&lines=My%20children%3A)](https://git.io/typing-svg)
-
-#### [![Fae](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=A513F7&width=435&height=28&lines=Fae)](https://git.io/typing-svg)
-<div>
-  <img src="" title="Fae" alt="Fae" width="" height=""/>&nbsp;
-</div>
-
-#### [![Floki](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=A513F7&width=435&height=28&lines=Floki)](https://git.io/typing-svg)
-<div>
-  <img src="" title="Floki" alt="Floki" width="" height=""/>&nbsp;
-</div>
