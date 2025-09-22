@@ -43,7 +43,7 @@ Hey there, I’m **_@Gwidzy_**!
 
 ![Gwidzy's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gwidzy?cardType=level-alternate&theme=midnight-purple&preferLogin=true)
 
-![Gwidzy's Streak]([https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com)/?user=Gwidzy&theme=midnight-purple&hide_border=false)
+![Gwidzy's Streak](https://github-readme-streak-stats.herokuapp.com?user=Gwidzy&theme=midnight-purple&hide_border=false)
 
 <!---
 Gwidzy/Gwidzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
