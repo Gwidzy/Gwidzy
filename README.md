@@ -5,7 +5,8 @@ Hey there, I’m **_@Gwidzy_**!
 - I’m interested in database design and software development 💻
 - Proud cat dad 🐈
 - I’m a BScIT graduate 👨‍🎓
-- I'm currently working for [Stock2Shop](https://www.stock2shop.com/) (4 years and counting) 
+- Previous company - [Stock2Shop](https://www.stock2shop.com/) - Senior Data and Support Technician (4 years)
+- Current company - [Genasys Technologies](https://www.genasystech.com/) - Intermediate Solutions Developer
 - I like long walks on the... wait, this isn't Tinder... 🏖️
  > I don't know man, it is what it is - [Tristan Russell](https://github.com/Tristan-Russell), circa 2019
 
