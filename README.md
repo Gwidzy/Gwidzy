@@ -25,6 +25,7 @@ Hey there, I’m **_@Gwidzy_**!
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original-wordmark.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 #### [![Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=A513F7&width=435&height=28&lines=Languages)](https://git.io/typing-svg)
