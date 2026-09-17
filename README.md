@@ -1,7 +1,7 @@
 ### [![General](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A513F7&width=435&height=28&lines=General%3A)](https://git.io/typing-svg)
 
 Hey there, I’m **_@Gwidzy_**!
-- I am a 25-year-old from South Africa 🇿🇦
+- I am a 26-year-old from South Africa 🇿🇦
 - I’m interested in database design and software development 💻
 - Proud cat dad 🐈
 - I’m a BScIT graduate 👨‍🎓
